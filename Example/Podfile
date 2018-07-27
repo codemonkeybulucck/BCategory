@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BCategory_Tests' do
+  pod 'BCategory', :path => '../'
+  
+  
+end
